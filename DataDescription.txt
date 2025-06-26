@@ -1,0 +1,30 @@
+Description of Data:-
+
+DayOfWeek → 1 (Monday) - 7 (Sunday)
+Date → Scheduled date
+DepTime → Actual departure time 
+ArrTime → Actual arrival time
+CRSArrTime → Scheduled arrival time 
+UniqueCarrier → Unique carrier code
+Airline → Airline company
+FlightNum → flight number
+TailNum → plane tail number
+ActualElapsedTime → Actual time an airplane spends in the air(in minutes) with TaxiIn/Out
+CRSElapsedTime → CRS Elapsed Time of Flight (estimated elapse time), in minutes
+AirTime → Flight Time (in minutes)
+ArrDelay → Difference in minutes between scheduled and actual arrival time
+Origin → Origin IATA(International Air Transport Association) airport code
+Org_Airport → Origin Airport Name
+Dest → Destination IATA code
+Dest_Airport → Destination Airport Name
+Distance → Distance between airports (miles)
+TaxiIn → Wheels down and arrival at the destination airport gate, in minutes
+TaxiOut → The time elapsed between departure from the origin airport gate and wheels off, in minutes
+Cancelled → Was the flight canceled?
+CancellationCode → Reason for cancellation
+Diverted → 1 = yes, 0 = no
+CarrierDelay → Flight delay due to carrier(e.g. maintenance or crew problems, aircraft cleaning, fueling, etc), 0 = No, yes = (in minutes)
+WeatherDelay → Flight delay due to weather, 0 = No, yes = (in minutes)
+NASDelay → Flight delay by NSA(National Aviation System), 0 = No, yes = (in minutes)
+SecurityDelay → Flight delay by this reason, 0 = No, yes = (in minutes)
+LateAircraftDelay → Flight delay by this reason, 0 = No, yes = (in minutes)
