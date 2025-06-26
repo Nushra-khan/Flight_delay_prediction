@@ -51,9 +51,3 @@ Each model was evaluated and compared to select the best-performing one.
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/flight-delay-prediction.git
-cd flight-delay-prediction
