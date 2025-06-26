@@ -7,8 +7,6 @@ Flight delays are a common inconvenience in the airline industry, affecting pass
 ---
 
 ## 📁 Dataset
-
-- **Source**: [DeepCharts YouTube Channel](https://www.youtube.com/@DeepCharts)
 - **File Used**: `Flight_delay.csv`
 - **Selected Features**:
   - `DayOfWeek`, `Date`, `DepTime`, `Airline`, `Origin`, `Dest`, `CarrierDelay`
